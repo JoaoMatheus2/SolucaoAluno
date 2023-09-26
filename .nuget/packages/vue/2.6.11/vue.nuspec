@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>vue</id>
+    <version>2.6.11</version>
+    <title>Vue</title>
+    <authors>Evan You</authors>
+    <owners>Evan You</owners>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://vuejs.org/</projectUrl>
+    <icon>images\icon.png</icon>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>vue.js</description>
+    <summary>The Progressive JavaScript Framework</summary>
+    <tags>Vue.js vue vuejs</tags>
+    <copyright>Copyright 2019</copyright>
+    <license type="file">license\LICENSE.txt</license>
+  </metadata>
+  <files>
+    <file src="..\icon.png" target="images\" />
+  </files>
+</package>
